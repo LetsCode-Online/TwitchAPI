@@ -11,7 +11,7 @@
 
 
 $(document).ready(function() {
-    searchUser('freecodecamp'); // on page load, pass user freecodecamp
+    searchUser('streamerhouse'); // on page load, pass user freecodecamp
 });
 
 var name_ = "";
